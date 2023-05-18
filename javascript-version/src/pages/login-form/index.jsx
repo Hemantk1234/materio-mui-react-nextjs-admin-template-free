@@ -1,8 +1,6 @@
 import { useEffect } from 'react'
-// import Link from 'next/link'
 
 const PrepopulatedForm = () => {
-  // Simulating server response
   const serverResponse = {
     id: 15,
     username: 'kminchelle',
@@ -14,7 +12,7 @@ const PrepopulatedForm = () => {
 
   useEffect(() => {
     populateForm(serverResponse)
-  }, []) // Empty dependency array ensures it runs only once after initial rendering
+  }, [])
 
   // Function to populate the form with server data
   function populateForm(data) {
