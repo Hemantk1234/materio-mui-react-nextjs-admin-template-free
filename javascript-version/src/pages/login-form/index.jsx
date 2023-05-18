@@ -51,11 +51,10 @@ const PrepopulatedForm = () => {
           select {
             width: 100%;
             padding: 8px;
-            border: 1px solid #ccc;
+            border: 1px solid #804BDF;
             border-radius: 4px;
             box-sizing: border-box;
             margin-bottom: 10px;
-            outline: none;
           }
 
           select {
@@ -72,7 +71,7 @@ const PrepopulatedForm = () => {
           }
 
           input[type="submit"]:hover {
-            background-color: #45a049;
+            background-color: #BB97FE;
           }
         `
         }}
