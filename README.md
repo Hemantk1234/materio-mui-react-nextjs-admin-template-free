@@ -25,19 +25,28 @@ You can use `npm i` command to install all the required modules and dependencies
 You can use yarn as well. But, make sure you have deleted `package-lock.json` file before running `yarn install` command.
 
 
-```bash
 # For npm
 npm install --legacy-peer-deps
 
 # For yarn
 yarn install
-```
 
 3. Now, you are ready to start the server with the help of command shown below. Open [http://localhost:3000/](http://localhost:3000/) to check your development 🚀.
 
-```bash
 # For Starting the server with npm 
 npm run dev
 
 # For yarn
 yarn dev
+
+## 🐦 Follow Me:
+
+> [Twitter](https://twitter.com/HemantkEtc116)
+
+> [LinkedIn](https://www.linkedin.com/in/hemant-kumbhalkar-87393b235/)
+
+> [Sololearn](https://www.sololearn.com/profile/24572821)
+
+I hope you like the project. Thanks for reading🙋:)
+<hr/>
+<br/>
