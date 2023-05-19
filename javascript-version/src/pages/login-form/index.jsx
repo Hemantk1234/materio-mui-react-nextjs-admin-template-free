@@ -12,7 +12,7 @@ const PrepopulatedForm = () => {
 
   useEffect(() => {
     populateForm(serverResponse)
-  }, [])
+  })
 
   // Function to populate the form with server data
   function populateForm(data) {
